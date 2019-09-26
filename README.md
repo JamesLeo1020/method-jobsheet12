@@ -1,4 +1,12 @@
 # method-jobsheet12
+#nomor1
+#A) Jenis parameter
+#B) Nama parameter
+#C) Isian method
+#D) Memanggil method
+
+
+
 ![Alt Text](https://github.com/leo-gaming/method-jobsheet12/blob/master/methodJS12%20-%20NetBeans%20IDE%208.2%2026_09_2019%2015_55_30.png)
 ![Alt Text](https://github.com/leo-gaming/method-jobsheet12/blob/master/methodJS12%20-%20NetBeans%20IDE%208.2%2026_09_2019%2015_55_43.png)
 ![Alt Text](https://github.com/leo-gaming/method-jobsheet12/blob/master/methodJS12%20-%20NetBeans%20IDE%208.2%2026_09_2019%2015_55_52.png)
